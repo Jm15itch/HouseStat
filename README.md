@@ -11,4 +11,4 @@ HouseStat an open source platform for hosting team points developed with PHP and
 
 ## License
 
-HouseStat is open-sourced software licensed under the [GNU General Public License](https://opensource.org/licenses/MIT).
+HouseStat is open-sourced software licensed under the [GNU General Public License](https://opensource.org/licenses/GPL-3.0).
