@@ -3,13 +3,6 @@ project(HouseStat CXX)
 
 include(CheckIncludeFileCXX)
 
-##### QT6 Finder
-
-find_package(Qt6 REQUIRED COMPONENTS Core)
-qt_standard_project_setup()
-
-##########################
-
 check_include_file_cxx(any HAS_ANY)
 check_include_file_cxx(string_view HAS_STRING_VIEW)
 check_include_file_cxx(coroutine HAS_COROUTINE)
@@ -36,7 +29,7 @@ add_executable(${PROJECT_NAME} main.cc)
 #
 # and comment out the following lines
 find_package(Drogon CONFIG REQUIRED)
-target_link_libraries(${PROJECT_NAME} PRIVATE Drogon::Drogon Qt6::Core)
+target_link_libraries(${PROJECT_NAME} PRIVATE Drogon::Drogon)
 
 # ##############################################################################
 
