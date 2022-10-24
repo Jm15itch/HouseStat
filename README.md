@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Jm15itch/HouseStat/main/logo.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/Jm15itch/HouseStat" target="_blank"><img src="https://raw.githubusercontent.com/Jm15itch/HouseStat/main/logo.png" width="400" alt="HouseStat Logo"></a></p>
 
 # Version 0
 
