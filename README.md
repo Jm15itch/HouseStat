@@ -2,6 +2,7 @@
 
 # Version 0
 
+
 ## About HouseStat
 
 HouseStat an open source platform for hosting team points developed with PHP and Kotlin. Built with a security focus, HouseStat provides participants with a beautiful website and developers with full api integration, features include:
@@ -10,6 +11,7 @@ HouseStat an open source platform for hosting team points developed with PHP and
 - Website to allow the viewing of points.
 - REST API for developers.
 - An intuitive admin page for administrators.
+- 
 
 ## Road map for Version 1
 
@@ -17,11 +19,13 @@ HouseStat an open source platform for hosting team points developed with PHP and
 - [ ] Provide a page which provides team point values
 - [ ] Construct documentation
 
+
 ## Road map for Version 2
 
 - [ ] Make an simple admin page for management
 - [ ] Make Live team point counter
 - [ ] Construct documentation on Version 2
+
 
 ## License
 
