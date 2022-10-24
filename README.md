@@ -11,7 +11,7 @@ HouseStat an open source platform for hosting team points developed with PHP and
 - Website to allow the viewing of points.
 - REST API for developers.
 - An intuitive admin page for administrators.
-- 
+
 
 ## Road map for Version 1
 
