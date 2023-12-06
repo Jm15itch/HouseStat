@@ -15,15 +15,15 @@ HouseStat an open source platform for hosting team points developed with PHP and
 
 ## Road map for Version 1
 
-- [ ] Make HouseStat provide a REST API Platform with minimum requirements
-- [ ] Provide a page which provides team point values
+- [X] Make HouseStat provide a REST API Platform with minimum requirements
+- [X] Provide a page which provides team point values
 - [ ] Construct documentation
 
 
 ## Road map for Version 2
 
 - [ ] Make an simple admin page for management
-- [ ] Make Live team point counter
+- [X] Make Live team point counter
 - [ ] Construct documentation on Version 2
 
 
